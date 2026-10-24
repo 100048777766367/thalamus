@@ -1,10 +1,10 @@
 {
-    "reply_to_timestamp": 1792840908,
-    "processed_at": 1792845371.6646395,
+    "reply_to_timestamp": 1792858115,
+    "processed_at": 1792867395.5744748,
     "gradients_for_eye": [
-        0.006,
-        0.0658
+        0.0063,
+        0.0646
     ],
     "quantum_proof": "shake256_verified",
-    "hyper_consensus": 0.8174
+    "hyper_consensus": 0.8196
 }
